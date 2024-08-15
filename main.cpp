@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <stdlib.h>
 
 int playerX = 1, playerY = 1;
 std::vector<std::string> level = {
